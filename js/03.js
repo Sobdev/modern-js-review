@@ -40,11 +40,11 @@
 // console.log(typeof user) // object
 
 // symbol...
-const firstSymbol = Symbol(23)
-const secondSymbol = Symbol(23)
+// const firstSymbol = Symbol(23)
+// const secondSymbol = Symbol(23)
 
-console.log(firstSymbol == secondSymbol) // false, every Symbol is unique
-console.log(firstSymbol === secondSymbol) // false, every Symbol is unique
+// console.log(firstSymbol == secondSymbol) // false, every Symbol is unique
+// console.log(firstSymbol === secondSymbol) // false, every Symbol is unique
 
 
 
