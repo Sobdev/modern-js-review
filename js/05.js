@@ -17,4 +17,4 @@ delete product.price
 
 console.log(product)
 
-// if you use Object.free() or Object.seal() you can protect your object with any way to rewrite it
+// if you use Object.freeze() or Object.seal() you can protect your object with any way to rewrite it
