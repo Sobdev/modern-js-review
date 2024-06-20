@@ -57,6 +57,6 @@ const client = {
 
 // 3.3 Extra option three
 
-const newerObject = Object.assign(product, client)
+// const newerObject = Object.assign(product, client)
 
-console.log(newerObject)
+// console.log(newerObject)
